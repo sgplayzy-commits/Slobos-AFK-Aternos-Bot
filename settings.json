@@ -1,13 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "SG 24/7 0101"
+  ",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "8Guys.aternos.me",
+    "port": 22615,
     "version": "",
     "try-creative": false
   },
